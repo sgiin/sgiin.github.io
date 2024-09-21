@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sgiin.github.io/SEe/sitemap.SEe.gz
